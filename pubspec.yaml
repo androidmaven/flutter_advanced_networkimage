@@ -8,9 +8,9 @@ dependencies:
   flutter:
     sdk: flutter
   http: "^0.12.0"
-  path_provider: "^1.1.0"
-  path: "^1.6.0"
-  flutter_svg: "^0.13.0"
+  path_provider: any
+  path: any
+  flutter_svg: "^0.14.0"
 
 dev_dependencies:
   flutter_test:
